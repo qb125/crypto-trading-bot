@@ -25,7 +25,7 @@ Installation
 
 
 Clone this repository:
-git clone https://github.com/yourusername/crypto-trading-bot.git
+git clone (https://github.com/qb125/crypto-trading-bot)
 cd crypto-trading-bot
 
 
